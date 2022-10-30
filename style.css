@@ -54,6 +54,8 @@ h3 {
   flex-wrap: wrap;
 }
 
+
+
 .logo {
   background-color: #2C3333;
   opacity: 50%;
@@ -121,4 +123,9 @@ button {
 label {
   color: black;
   font-weight: bold;
+}
+button:hover{
+  background-color: #FF005F;
+  border: 2px solid #719ECE;
+  box-shadow: 0 0 30px #719ECE;
 }
