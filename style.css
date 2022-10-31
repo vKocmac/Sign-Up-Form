@@ -49,12 +49,21 @@ h3 {
   color: #2C3333
 }
 
+hr{
+border:none;
+height: 20px;
+width: 90%;
+height: 50px;
+margin-top: 0;
+border-bottom: 1px solid grey;
+box-shadow: 0 20px 20px -20px #A500FF;
+margin: -50px auto 10px;
+}
+
 .right-middle {
   display: flex;
   flex-wrap: wrap;
 }
-
-
 
 .logo {
   background-color: #2C3333;
